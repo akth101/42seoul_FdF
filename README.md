@@ -2,6 +2,7 @@
 # FdF
 
 `FdF` 프로젝트는 2차원 map을 인자로 받아 `isometric projection`을 사용하여 3D 그래픽을 화면에 그리는 프로젝트입니다.  
+
 <img width="1146" alt="Image" src="https://github.com/user-attachments/assets/7954fb6b-d636-438d-8211-4d880a457e67" />
 
 ### 목차
